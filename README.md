@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+<b>Microsoft Azure (Help Desk Ticketing System)</b>
+ - [Creating a virtual machine in Azure and connecting with remote desktop](https://github.com/samuelrww/azure-network-protocols)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Creating a virtual machine in Azure and connecting with remote desktop](https://github.com/samuelrww/)
   - [osTicket: Post-Installation Configuration](https://github.com/samuelrww/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/samuelrww/ticket-lifecycle)
 
