@@ -6,8 +6,8 @@
  - [Creating a virtual machine in Azure and connecting with remote desktop](https://github.com/samuelrww/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/samuelrww/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/samuelrww/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/samuelrww/os-Ticket-Post-Install-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/samuelrww/osTicket-Ticket-Lifecycle-Examples)
 
 
 <h2>🤳Connect with me:</h2>
