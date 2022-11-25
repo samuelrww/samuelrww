@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/samuelrww/osticket-prereqs)
+  - [Creating a virtual machine in Azure and connecting with remote desktop](https://github.com/samuelrww/)
   - [osTicket: Post-Installation Configuration](https://github.com/samuelrww/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/samuelrww/ticket-lifecycle)
 
